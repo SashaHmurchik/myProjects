@@ -1,0 +1,5 @@
+SUMMER:Basket Ball:10:5
+SUMMER:Soccer Ball:10:6
+OFFSEASON:Sneakers for running:5:7
+OFFSEASON:Yoga mat:6:8
+WINTER:Sking:4:10
